@@ -1,4 +1,5 @@
 # Data-Visualization-Trump-s-winning-rate
+This is a data visualization practice using data provided by https://github.com/fivethirtyeight/data/tree/master/election-forecasts-2020 
 1. Trump's winning rate vs. Biden
 ![Winning Rate](https://github.com/AliciaFZhang/Data-Visualization-Trump-s-winning-rate/blob/main/Images/1.%20Trump%20vs.%20Biden%20Winning%20Rate%20by%20Time.png)
 2. Variation of Trump's winning rate overtime
